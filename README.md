@@ -18,7 +18,7 @@ I’m @SimonaSfetcu.
 
 - :closed_lock_with_key: Passionate about cyber security.
 
-- :inbox_tray: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/simona-gabriela-sfetcu-b33378207)
+- :inbox_tray: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simona-gabriela-sfetcu-b33378207/)
 <!---
 SimonaSfetcu/SimonaSfetcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
